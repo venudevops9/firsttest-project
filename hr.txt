@@ -1,1 +1,2 @@
 this is new hr file
+this is new line for hr file
